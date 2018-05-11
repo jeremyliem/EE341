@@ -1,0 +1,4 @@
+Assignment1 - This part is for the assignment 1 of the Lab
+ex2 - First part of assignment 2 of lab
+Assignment 2 part 2 - Function for 3 band equalizer
+Assignment 2 - Last part of assignment 2 of lab
